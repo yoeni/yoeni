@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @yoeni
-- sezeryildirim.online
+- sezeryildirim.site
