@@ -1,1 +1,1 @@
-Full Stack Developer @ Esdemate | React NestJs NodeJs Docker Unity
+Full Stack Developer | React NestJs NodeJs Docker Unity
